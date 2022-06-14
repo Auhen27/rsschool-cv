@@ -12,4 +12,4 @@ no
 ## Education
 Belarusian National Technical University (Electric power systems and networks)
 ## English 
-A2+
+A2
